@@ -23,7 +23,7 @@ USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
 PICS = (environ.get('PICS', 'https://telegra.ph/file/920470c69bc26426d019e.jpg https://telegra.ph/file/ba941bb33f3ec8ede35a0.jpg https://telegra.ph/file/45fba6a707d70b5b49ed2.jpg https://telegra.ph/file/34f0aa1fc5d0f4975625f.jpg https://telegra.ph/file/29912fe58766a3da41706.jpg https://telegra.ph/file/353947cdef83ea641afba.jpg https://telegra.ph/file/848680130c4f9d61dd99c.jpg https://telegra.ph/file/efeaec39efb273b2d372a.jpg https://telegra.ph/file/cc6c586660f6e11e074e7.jpg https://telegra.ph/file/f8947edaa35c3ba5207cb.jpg https://telegra.ph/file/5b551ee5fdb396f6aabe9.jpg https://telegra.ph/file/cc4cb3e72f0a15d968ac0.jpg https://telegra.ph/file/fcde1fd1a3134ae999f1f.jpg https://telegra.ph/file/b5debb5a07f17184da5e2.jpg https://telegra.ph/file/5df5fe6db59cac1e10f14.jpg https://telegra.ph/file/97f78ea86b69898bbb984.jpg https://telegra.ph/file/3e0feb21d22a38b043393.jpg')).split() #SAMPLE PIC
 NOR_IMG = environ.get("NOR_IMG", "https://te.legra.ph/file/a27dc8fe434e6b846b0f8.jpg")
-MELCOW_VID = environ.get("MELCOW_VID", "https://t.me/howtodownloadmoviestamilhd/70")
+MELCOW_VID = environ.get("MELCOW_VID", "https://te.legra.ph/file/e588bd6e94027f36bce7b.mp4")
 SPELL_IMG = environ.get("SPELL_IMG", "https://te.legra.ph/file/15c1ad448dfe472a5cbb8.jpg")
 
 # Admins, Channels & Users
