@@ -79,7 +79,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 my features Stay here new features coming soon...  
  <b>✯ Maintained by : <a href=https://t.me/xenxd>Mikey Sano</a></b>
   
- <b>✯ Join here : <a href=https://t.me/kaizoyu>Join my Network</a></b> 
+ <b>✯ Join here : <a href=https://t.me/kaizoyu>Join My Network</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
