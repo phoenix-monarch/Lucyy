@@ -230,7 +230,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 IMDb Data:
 
-<b>🏷 Title</b>: <a href={url}>{title}</a>
+<b>• Title</b>: <a href={url}>{title}</a>
  • Genres: {genres}
  • Year: <a href={url}/releaseinfo>{year}</a>
  • Rating: <a href={url}/ratings>{rating}</a> / 10 (based on {votes} user ratings.)
